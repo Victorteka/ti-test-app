@@ -1,5 +1,11 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <a
+      href="https://touchinspiration.com/"
+      target="_blank"
+      rel="noopener noreferrer"
+    >
+      <h1>Visit our website for more info</h1>
+    </a>
   </div>
 </template>
