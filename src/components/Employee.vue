@@ -17,6 +17,7 @@
           <v-icon left> mdi-email </v-icon>
           Email: {{ employeeData.email }}
         </v-chip>
+        <p>employed: {{ employeeData.created_at | formatDate }}</p>
         <!-- <v-spacer></v-spacer> -->
 
         <template>
