@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(t,e,r){"use strict";r.r(e);var n=function(){var t=this,e=t.$createElement;t._self._c;return t._m(0)},o=[function(){var t=this,e=t.$createElement,r=t._self._c||e;return r("div",{staticClass:"about"},[r("a",{attrs:{href:"https://touchinspiration.com/",target:"_blank",rel:"noopener noreferrer"}},[r("h1",[t._v("Visit our website for more info")])])])}],a=r("2877"),s={},i=Object(a["a"])(s,n,o,!1,null,null,null);e["default"]=i.exports}}]);
+//# sourceMappingURL=about.9314e443.js.map
